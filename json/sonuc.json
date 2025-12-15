@@ -1,0 +1,10 @@
+{
+  "beraat": ["beraat", "beraat et", "beraat kararı", "aklandı", "beraat ettirildi", "suçsuz bulundu", "temize çıktı"],
+  "hapis": ["hapis", "cezaevi", "tutuklama", "tutuklandı", "hüküm giydi", "mahkum oldu", "ceza aldı", "tutuklu yargılanma", "hapis cezası"],
+  "para cezası": ["para cezası", "adli para cezası", "para cezasına çarptırıldı", "cezayı paraya çevirdi", "tazminat"],
+  "şartlı serbestlik": ["şartlı salıverme", "şartlı tahliye", "şartlı serbestlik", "denetimli serbestlik", "şartla salıverildi"],
+  "kovuşturma": ["takipsizlik", "kovuşturmaya yer yok", "dava açılmadı", "takipsizlik kararı", "düşürüldü"],
+  "soruşturma": ["soruşturma"],
+  "gözaltı": ["gözaltı"],
+  "yakalandı":["ekiplerince yakalandı"]
+}
