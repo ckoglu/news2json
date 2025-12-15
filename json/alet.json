@@ -1,0 +1,11 @@
+{
+  "silah": ["tabanca", "silah", "tüfek", "kurşun", "ateşli silah", "av tüfeği", "pompalı tüfek", "makinalı tüfek", "revolver", "otomatik silah"],
+  "bıçak": ["bıçak", "kesici alet", "hançer", "makas", "çakı", "ustura", "jilet", "kesici"],
+  "balta": ["balta", "keser", "nacak", "balyoz"],
+  "sopa": ["sopa", "demir çubuk", "cop", "baston", "çubuk", "odun", "tahta", "sırık"],
+  "tokat": ["yumruk", "tokat", "tekme", "dirsek", "diz", "kafa", "yumruk atma", "tekme atma"],
+  "zehir": ["zehir", "ilaç", "uyuşturucu", "hap", "iğne", "toksik madde"],
+  "taş": ["taş", "kaya", "tuğla", "kiremit", "beton parçası", "mermer"],
+  "ateş": ["ateş", "alev", "yanıcı madde", "benzin", "tiner", "yanma"],
+  "elektrik": ["elektrik", "kablo", "priz", "şok", "elektrik çarpması", "elektrik akımı"]
+}
