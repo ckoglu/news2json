@@ -1,8 +1,0 @@
-{
-  "cinayet": ["öldürüldü", "cinayet", "öldürme", "katl", "öldürdü", "hayatını kaybetti", "öldürülme", "öldürülmesi", "öldürüldüğü", "öldürülerek", "öldürülüş", "öldürüp", "öldürdükten"],
-  "darp": ["dövüldü", "darp", "dayak", "şiddet", "dövme", "vurma", "yaralama", "darbedildi", "darp edildi", "dövülerek", "dövüldükten", "dövülmesi"],
-  "hırsızlık": ["çalındı", "hırsızlık", "çalma", "soygun", "gasbedildi", "çalınma", "hırsızlık yapıldı", "çalıp", "çaldığı", "çaldıktan", "çaldığında"],
-  "tecavüz": ["tecavüz", "cinsel saldırı", "istismar", "tecavüz edildi", "cinsel istismar", "taciz", "tecavüze uğradı", "tecavüz etti", "tecavüzden", "tecavüz ederek"],
-  "dolandırıcılık": ["dolandırıldı", "dolandırıcılık", "sahtecilik", "dolan", "aldatıldı", "dolandırma", "dolandırdı", "dolandırılarak", "dolandırdığı"],
-  "kavga": ["kavga", "dövüş"]
-}
